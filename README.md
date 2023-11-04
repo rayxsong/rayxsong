@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rayxsong&show_icons=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rayxsong&theme=moltack&show_icons=true" />
 
 <!--
 **rayxsong/rayxsong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
