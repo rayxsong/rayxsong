@@ -1,10 +1,5 @@
 ### 👋
-I am a computer engineering student at the University of Washington, with a minor in digital arts and experimental media. I have a passion for creating and programming interactive installations that engage and inspire audiences. 
-
-I applied my skills in computer engineering, digital arts, and experimental media, as well as my knowledge of user experience, design thinking, and project management. I enjoy working on projects that challenge me to learn new technologies, explore new forms of expression, and collaborate with diverse and talented people.
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rayxsong&theme=moltack&count_private=true&show_icons=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayxsong&theme=moltack" />
+Ray Song is a researcher focusing on Multimodal Sensing, Digital Fabrication and Human-Robot Interaction (HRI). Ray is a graduate student at MIT Media Lab Multisensory Intelligence research group, advised by Prof. Paul Liang(Media Lab) and Prof. Wojciech Matusik(EECS). Ray received his B.S. in Computer Science at the University of Washington (UW), working with Prof. Siddhartha Srinivasa, Prof. Maya Cakmak, Prof. Yiyue Luo.
 
 <!--
 **rayxsong/rayxsong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
